@@ -1,0 +1,25 @@
+#Home{
+  background:linear-gradient(	#FF0000 50%,#0000FF 60%);
+  margin:50px;
+  padding-top:100px;
+}
+body{
+  text-align:center;
+}
+img{
+  border-radius:1000px;
+}
+.links{
+font-family: 'Farro', sans-serif;
+margin-left: 50px;
+    margin-right: 50px;
+    display: inline;
+}
+.Menu{ 
+    background: Red;
+    width: 100%;
+    list-style: none;
+    position: fixed;
+    height: 50px;
+    margin-top: 0px;
+}
